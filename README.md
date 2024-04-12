@@ -10,7 +10,7 @@ This Python script provides a convenient way to log data received from an Arduin
   cd Sensor-PySerial
 ```
 
-2. Go for the Installation for the `requirements.txt`.
+2. Go for the Installation in the `requirements.txt`.
 
 ```
   pip install requirements.txt
